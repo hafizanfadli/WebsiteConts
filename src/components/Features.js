@@ -14,11 +14,6 @@ const AdvancedFeatures = () => {
       description: "Since its founding in 2000, this construction company has played a key role in some of the most esteemed projects across Australia.This is a detailed description of Feature Two. It provides information about the feature's benefits.",
       image: f1,
     },
-    {
-      title: "General Contract",
-      description: "Since its founding in 2000, this construction company has played a key role in some of the most esteemed projects across Australia.This is a detailed description of Feature Two. It provides information about the feature's benefits.",
-      image: f1,
-    },
   ];
 
   return (

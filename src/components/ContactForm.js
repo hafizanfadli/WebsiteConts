@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 
 const ContactForm = () => {
     return (
-        <div className="contactform">
+        <div className="contactform" id="contact">
             <Container className="custom-container">
              <div className="contact-section">
                 <div className="contact-form-container">

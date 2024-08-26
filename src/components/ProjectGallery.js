@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 
 const ProjectsGallery = () => {
     return (
-        <Container className="custom-container">
+        <Container className="custom-container" id="project">
             <div className="projects-gallery">
             <div className="header">
             <h2>Our Projects</h2>

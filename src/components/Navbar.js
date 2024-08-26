@@ -57,8 +57,9 @@ const NavigationBar = () => {
           <Nav className="mx-auto">
             <Nav.Link href="#home" style={{color: navbarStyle.color}}>Home</Nav.Link>
             <Nav.Link href="#features" style={{color: navbarStyle.color}}>Features</Nav.Link>
+            <Nav.Link href="#project" style={{color: navbarStyle.color}}>Project</Nav.Link>
             <Nav.Link href="#testimonials" style={{color: navbarStyle.color}}>Testimonials</Nav.Link>
-            <Nav.Link href="#company" style={{color: navbarStyle.color}}>Company</Nav.Link>
+            <Nav.Link href="#contact" style={{color: navbarStyle.color}}>Contact</Nav.Link>
           </Nav>
           <Button className="ml-auto" id='custom-btn'>Contact Us</Button>
         </Navbar.Collapse>
